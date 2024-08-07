@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../list/list-styles.css';
 
 function list() {
   return (
@@ -22,8 +22,7 @@ function list() {
 
     </div>
 
-
-  )
-}
+  );
+};
 
 export default list

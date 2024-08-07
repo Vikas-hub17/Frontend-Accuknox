@@ -1,5 +1,5 @@
 import React from 'react'
-import './list.jsx';
+import './list/list';
 
 function App() {
   return (
