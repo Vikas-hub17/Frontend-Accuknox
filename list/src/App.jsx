@@ -4,7 +4,7 @@ import './list/list';
 function App() {
   return (
     <list />
-  );
+)
 };
 
 export default App
